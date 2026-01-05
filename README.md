@@ -122,7 +122,7 @@ projet_avec_avx512/
 ---
 
 ## Auteur
-**Yaya Touré (Médoune)**  
+**Yaya Touré**  
 Master 1 – Calcul Haute Performance et Simulation (CHPS)  
 
 Test effectué le : **05 janvier 2026**
