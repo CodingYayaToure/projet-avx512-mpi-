@@ -1,5 +1,10 @@
 # Projet HPC – Vectorisation AVX-512 & Parallélisme MPI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Langages](https://img.shields.io/badge/C-73.3%25-blue) ![Langages](https://img.shields.io/badge/Python-26.7%25-green)
+![Release](https://img.shields.io/badge/release-v1.0-brightgreen)
+
+
 ## Description générale
 Ce projet s’inscrit dans le cadre du module **Architectures et Modèles de Calcul (M1 CHPS)**. Il illustre deux axes majeurs du calcul haute performance (HPC) :
 
